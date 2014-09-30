@@ -1,2 +1,2 @@
 document.getElementById("theButton").onclick = ->
-  alert("This is a different click")
+  alert("Even more exciting!")

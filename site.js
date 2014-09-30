@@ -1,6 +1,6 @@
 (function() {
   document.getElementById("theButton").onclick = function() {
-    return alert("This is a different click");
+    return alert("Even more exciting!");
   };
 
 }).call(this);
